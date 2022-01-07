@@ -144,3 +144,30 @@ public class Main {
     }
 }
 ``` 
+### Kendisine parametre olarak gelen tamsayının sıralı olup olmadığını kontrol eden recursive fonksiyonu yazınız.
+```java
+import java.util.Arrays;
+import java.util.Random;
+public class Main {
+    public static boolean array_sort_control(int[]arr, int i){
+        if (i == arr.length-1) {
+            return true;
+        } else {
+            if (arr[i]>arr[i+1]) {
+                return false;
+            } else {
+                return array_sort_control(arr, i+1);
+            }
+        }
+    }
+    public static void main(String[] args) {
+        Random r = new Random();
+        int[] arr = new int[5];
+        for (int i = 0; i < arr.length; i++) {
+            arr[i]=r.nextInt(100)+1;
+        }
+        System.out.println(Arrays.toString(arr));
+        System.out.println(array_sort_control(arr, 0));
+    }
+}
+```
