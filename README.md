@@ -117,3 +117,30 @@ public class Main {
     }
 }
 ```
+### Kendisine parametre olarak gelen tamsayı dizisindeki en büyük elemanın indisini hesaplayan recursive fonksiyonu yazınız.
+```java
+import java.util.Arrays;
+import java.util.Random;
+public class Main {
+    static int big = 0;
+    public static int r_big_num(int []arr, int i) {
+        if (i == arr.length) {
+            return big;
+        } else {
+            if (arr[big] < arr[i]) {
+                big = i;
+            }
+            return r_big_num(arr, i+1);
+        }
+    }
+    public static void main(String[] args) {
+        Random r = new Random();
+        int[]arr = new int[10];
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = r.nextInt(10)+1;
+        }
+        System.out.println(Arrays.toString(arr));
+        System.out.println(r_big_num(arr, 1));
+    }
+}
+``` 
