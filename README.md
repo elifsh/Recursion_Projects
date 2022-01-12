@@ -221,22 +221,25 @@ public class Main {
 ```
 ### Kendisine parametre olarak gelen dizide kaç tane küçük karakter olduğunu hesaplayan recursive fonksiyonu yazınız.
 ```java
+import java.util.Scanner;
 public class Main {
     static int temp = 0;
-    public static int small_num(String str, int i) {
-        if (i == str.length()) {
+    public static int small_num(char[]arr, int i) {
+        if (i ==arr.length) {
             return temp;
         } else {
-            if (str.charAt(i)>=97 && str.charAt(i)<=122) {
+            if (arr[i]>=97 && arr[i]<=122) {
                 temp++;
             }
-            return small_num(str, i+1);
+            return small_num(arr, i+1);
         }
     }
     public static void main(String[] args) {
-        String str = "Merhaba";
-        System.out.println(str);
-        System.out.println(small_num(str, 0));
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Please enter your string: ");
+        String str = sc.next();
+        char[]ch = str.toCharArray();
+        System.out.println(small_num(ch, 0));
     }
 }
 ```
