@@ -3,19 +3,19 @@ Fırat University Recursion_Projects
 
 | PRATİKLER |
 |-----
-| [PRATİK 1](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-de%C4%9Ferin-fakt%C3%B6riyelini-d%C3%B6nd%C3%BCren-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Faktöriyel Hesaplama |
-| [PRATİK 2](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-pozitif-tam-say%C4%B1ya-kadar-olan-tamsay%C4%B1lar%C4%B1-toplayan-recursive-methodu-yaz%C4%B1n%C4%B1z) - Gauss Toplamı |
-| [PRATİK 3](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#kendisine-parametre-olarak-gelen-say%C4%B1n%C4%B1n-ka%C3%A7-basamakl%C4%B1-oldu%C4%9Funu-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Basamak Sayısı Bulma |
-| [PRATİK 4](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#kendisine-parametre-olarak-gelen-a-ve-b-say%C4%B1s%C4%B1n%C4%B1-ab-cinsinde-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Üslü Sayı Hesaplama |
-| [PRATİK 5](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-say%C4%B1-kadar-ad%C4%B1n%C4%B1z%C4%B1-yazd%C4%B1ran-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Sayı Kadar İsim Yazdırma |
-| [PRATİK 6](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-a-say%C4%B1s%C4%B1na-kar%C5%9F%C4%B1l%C4%B1k-gelen-fibonacci-dizi-eleman%C4%B1n%C4%B1-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Fibonacci Dizisi Yazdırma |
-| [PRATİK 7](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-tamsay%C4%B1-dizisindeki-en-b%C3%BCy%C3%BCk-eleman%C4%B1n-indisini-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - En Büyük Elemanın İndisini Yazdırma |
-| [PRATİK 8](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-tamsay%C4%B1n%C4%B1n-s%C4%B1ral%C4%B1-olup-olmad%C4%B1%C4%9F%C4%B1n%C4%B1-kontrol-eden-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Sıralı Dizi Kontrolü |
-| [PRATİK 9](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-dizinin-simetrik-olup-olmad%C4%B1%C4%9F%C4%B1n%C4%B1-kontrol-eden-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Simetrik Dizi Kontrolü |
-| [PRATİK 10](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-dizide-ka%C3%A7-tane-pozitif-tam-say%C4%B1-oldu%C4%9Funu-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Pozitif Tamsayı Sayacı |
-| [PRATİK 11](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-dizide-ka%C3%A7-tane-k%C3%BC%C3%A7%C3%BCk-karakter-oldu%C4%9Funu-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Küçük Karakter Sayacı |
-| [PRATİK 12](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#kendisine-parametre-olarak-gelen--diziyi-ters-%C3%A7eviriren-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Dizi Ters Çevirme|
-| [PRATİK 13](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-stringi-ters-%C3%A7eviren-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Kelime Ters Yazma |
+| [PRATİK 1](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-1--fakt%C3%B6riyel-hesaplama) - Faktöriyel Hesaplama |
+| [PRATİK 2](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-2--gauss-toplam%C4%B1) - Gauss Toplamı |
+| [PRATİK 3](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-3--basamak-say%C4%B1s%C4%B1-bulma) - Basamak Sayısı Bulma |
+| [PRATİK 4](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-4--%C3%BCsl%C3%BC-say%C4%B1-hesaplama) - Üslü Sayı Hesaplama |
+| [PRATİK 5](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-5--say%C4%B1-kadar-i%CC%87sim-yazd%C4%B1rma) - Sayı Kadar İsim Yazdırma |
+| [PRATİK 6](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-6--fibonacci-dizisi-yazd%C4%B1rma) - Fibonacci Dizisi Yazdırma |
+| [PRATİK 7](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-7--en-b%C3%BCy%C3%BCk-eleman%C4%B1n-i%CC%87ndisini-yazd%C4%B1rma) - En Büyük Elemanın İndisini Yazdırma |
+| [PRATİK 8](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-8--s%C4%B1ral%C4%B1-dizi-kontrol%C3%BC) - Sıralı Dizi Kontrolü |
+| [PRATİK 9](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-9--simetrik-dizi-kontrol%C3%BC) - Simetrik Dizi Kontrolü |
+| [PRATİK 10](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-10--pozitif-tamsay%C4%B1-sayac%C4%B1) - Pozitif Tamsayı Sayacı |
+| [PRATİK 11](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-11--k%C3%BC%C3%A7%C3%BCk-karakter-sayac%C4%B1) - Küçük Karakter Sayacı |
+| [PRATİK 12](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-12--dizi-ters-%C3%A7evirme) - Dizi Ters Çevirme|
+| [PRATİK 13](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-13--kelime-ters-yazma) - Kelime Ters Yazma |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
