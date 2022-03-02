@@ -1,6 +1,27 @@
 # Recursion_Projects
 Fırat University Recursion_Projects
 
+| PRATİKLER |
+|-----
+| [PRATİK 1](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-de%C4%9Ferin-fakt%C3%B6riyelini-d%C3%B6nd%C3%BCren-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Faktöriyel Hesaplama |
+| [PRATİK 2](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-pozitif-tam-say%C4%B1ya-kadar-olan-tamsay%C4%B1lar%C4%B1-toplayan-recursive-methodu-yaz%C4%B1n%C4%B1z) - Gauss Toplamı |
+| [PRATİK 3](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#kendisine-parametre-olarak-gelen-say%C4%B1n%C4%B1n-ka%C3%A7-basamakl%C4%B1-oldu%C4%9Funu-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Basamak Sayısı Bulma |
+| [PRATİK 4](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#kendisine-parametre-olarak-gelen-a-ve-b-say%C4%B1s%C4%B1n%C4%B1-ab-cinsinde-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Üslü Sayı Hesaplama |
+| [PRATİK 5](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-say%C4%B1-kadar-ad%C4%B1n%C4%B1z%C4%B1-yazd%C4%B1ran-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Sayı Kadar İsim Yazdırma |
+| [PRATİK 6](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-a-say%C4%B1s%C4%B1na-kar%C5%9F%C4%B1l%C4%B1k-gelen-fibonacci-dizi-eleman%C4%B1n%C4%B1-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Fibonacci Dizisi Yazdırma |
+| [PRATİK 7](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-tamsay%C4%B1-dizisindeki-en-b%C3%BCy%C3%BCk-eleman%C4%B1n-indisini-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - En Büyük Elemanın İndisini Yazdırma |
+| [PRATİK 8](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-tamsay%C4%B1n%C4%B1n-s%C4%B1ral%C4%B1-olup-olmad%C4%B1%C4%9F%C4%B1n%C4%B1-kontrol-eden-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Sıralı Dizi Kontrolü |
+| [PRATİK 9](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-dizinin-simetrik-olup-olmad%C4%B1%C4%9F%C4%B1n%C4%B1-kontrol-eden-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Simetrik Dizi Kontrolü |
+| [PRATİK 10](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-dizide-ka%C3%A7-tane-pozitif-tam-say%C4%B1-oldu%C4%9Funu-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Pozitif Tamsayı Sayacı |
+| [PRATİK 11](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-dizide-ka%C3%A7-tane-k%C3%BC%C3%A7%C3%BCk-karakter-oldu%C4%9Funu-hesaplayan-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Küçük Karakter Sayacı |
+| [PRATİK 12](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#kendisine-parametre-olarak-gelen--diziyi-ters-%C3%A7eviriren-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Dizi Ters Çevirme|
+| [PRATİK 13](https://github.com/elifsh/Recursion_Projects#kendisine-parametre-olarak-gelen-stringi-ters-%C3%A7eviren-recursive-fonksiyonu-yaz%C4%B1n%C4%B1z) - Kelime Ters Yazma |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# :open_book: PRATİK 1	- Faktöriyel Hesaplama
+
+## SORU :question:
 ### Kendisine parametre olarak gelen değerin faktöriyelini döndüren recursive fonksiyonu yazınız.
 ```java
 import java.util.Random;
@@ -20,6 +41,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 2	- Gauss Toplamı
+
+## SORU :question:
 ### Kendisine parametre olarak gelen pozitif tam sayıya kadar olan tamsayıları toplayan recursive methodu yazınız.
 ```java
 import java.util.Random;
@@ -39,6 +64,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 3	- Basamak Sayısı Bulma
+
+## SORU :question:
 ### Kendisine parametre olarak gelen sayının kaç basamaklı olduğunu hesaplayan recursive fonksiyonu yazınız.
 ```java
 import java.util.Random;
@@ -58,6 +87,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 4	- Üslü Sayı Hesaplama
+
+## SORU :question:
 ### Kendisine parametre olarak gelen a ve b sayısını a^b cinsinde hesaplayan recursive fonksiyonu yazınız.
 ```java
 import java.util.Random;
@@ -78,6 +111,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 5	- Sayı Kadar İsim Yazdırma
+
+## SORU :question:
 ### Kendisine parametre olarak gelen sayı kadar adınızı yazdıran recursive fonksiyonu yazınız.
 ```java
 import java.util.Random;
@@ -97,6 +134,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 6	- Fibonacci Dizisi Yazdırma
+
+## SORU :question:
 ### Kendisine parametre olarak gelen a sayısına karşılık gelen fibonacci dizi elemanını hesaplayan recursive fonksiyonu yazınız.
 ```java
 import java.util.Random;
@@ -117,6 +158,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 7	- En Büyük Elemanın İndisini Yazdırma
+
+## SORU :question:
 ### Kendisine parametre olarak gelen tamsayı dizisindeki en büyük elemanın indisini hesaplayan recursive fonksiyonu yazınız.
 ```java
 import java.util.Arrays;
@@ -144,6 +189,10 @@ public class Main {
     }
 }
 ``` 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 8	- Sıralı Dizi Kontrolü
+
+## SORU :question:
 ### Kendisine parametre olarak gelen tamsayının sıralı olup olmadığını kontrol eden recursive fonksiyonu yazınız.
 ```java
 import java.util.Arrays;
@@ -171,6 +220,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 9	- Simetrik Dizi Kontrolü
+
+## SORU :question:
 ### Kendisine parametre olarak gelen dizinin simetrik olup olmadığını kontrol eden recursive fonksiyonu yazınız.
 ```java
 import java.util.Arrays;
@@ -192,6 +245,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 10	- Pozitif Tamsayı Sayacı
+
+## SORU :question:
 ### Kendisine parametre olarak gelen dizide kaç tane pozitif tam sayı olduğunu hesaplayan recursive fonksiyonu yazınız.
 ```java
 import java.util.Arrays;
@@ -219,6 +276,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 11	- Küçük Karakter Sayacı
+
+## SORU :question:
 ### Kendisine parametre olarak gelen dizide kaç tane küçük karakter olduğunu hesaplayan recursive fonksiyonu yazınız.
 ```java
 import java.util.Scanner;
@@ -243,6 +304,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 12	- Dizi Ters Çevirme
+
+## SORU :question:
 ### Kendisine parametre olarak gelen  diziyi ters çeviriren recursive fonksiyonu yazınız.
 ```java
 import java.util.Random;
@@ -270,6 +335,10 @@ public class Main {
     }
 }
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# :open_book: PRATİK 13	- Kelime Ters Yazma 
+
+## SORU :question:
 ### Kendisine parametre olarak gelen stringi ters çeviren recursive fonksiyonu yazınız.
 ```java
 public class Main {
