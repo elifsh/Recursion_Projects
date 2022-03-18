@@ -4,18 +4,18 @@ Fırat University Recursion_Projects
 | PRATİKLER |
 |-----
 | [PRATİK 1](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-1--fakt%C3%B6riyel-hesaplama) - Faktöriyel Hesaplama |
-| [PRATİK 2](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-2--gauss-toplam%C4%B1) - Gauss Toplamı |
-| [PRATİK 3](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-3--basamak-say%C4%B1s%C4%B1-bulma) - Basamak Sayısı Bulma |
-| [PRATİK 4](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-4--%C3%BCsl%C3%BC-say%C4%B1-hesaplama) - Üslü Sayı Hesaplama |
-| [PRATİK 5](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-5--say%C4%B1-kadar-i%CC%87sim-yazd%C4%B1rma) - Sayı Kadar İsim Yazdırma |
-| [PRATİK 6](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-6--fibonacci-dizisi-yazd%C4%B1rma) - Fibonacci Dizisi Yazdırma |
-| [PRATİK 7](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-7--en-b%C3%BCy%C3%BCk-eleman%C4%B1n-i%CC%87ndisini-yazd%C4%B1rma) - En Büyük Elemanın İndisini Yazdırma |
-| [PRATİK 8](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-8--s%C4%B1ral%C4%B1-dizi-kontrol%C3%BC) - Sıralı Dizi Kontrolü |
-| [PRATİK 9](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-9--simetrik-dizi-kontrol%C3%BC) - Simetrik Dizi Kontrolü |
-| [PRATİK 10](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-10--pozitif-tamsay%C4%B1-sayac%C4%B1) - Pozitif Tamsayı Sayacı |
-| [PRATİK 11](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-11--k%C3%BC%C3%A7%C3%BCk-karakter-sayac%C4%B1) - Küçük Karakter Sayacı |
-| [PRATİK 12](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-12--dizi-ters-%C3%A7evirme) - Dizi Ters Çevirme|
-| [PRATİK 13](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-13--kelime-ters-yazma) - Kelime Ters Yazma |
+| [PRATİK 2](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-2--gauss-toplam%C4%B1) - Gauss Toplamı |
+| [PRATİK 3](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-3--basamak-say%C4%B1s%C4%B1-bulma) - Basamak Sayısı Bulma |
+| [PRATİK 4](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-4--%C3%BCsl%C3%BC-say%C4%B1-hesaplama) - Üslü Sayı Hesaplama |
+| [PRATİK 5](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-5--say%C4%B1-kadar-i%CC%87sim-yazd%C4%B1rma) - Sayı Kadar İsim Yazdırma |
+| [PRATİK 6](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-6--fibonacci-dizisi-yazd%C4%B1rma) - Fibonacci Dizisi Yazdırma |
+| [PRATİK 7](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-7--en-b%C3%BCy%C3%BCk-eleman%C4%B1n-i%CC%87ndisini-yazd%C4%B1rma) - En Büyük Elemanın İndisini Yazdırma |
+| [PRATİK 8](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-8--s%C4%B1ral%C4%B1-dizi-kontrol%C3%BC) - Sıralı Dizi Kontrolü |
+| [PRATİK 9](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-9--simetrik-dizi-kontrol%C3%BC) - Simetrik Dizi Kontrolü |
+| [PRATİK 10](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-10--pozitif-tamsay%C4%B1-sayac%C4%B1) - Pozitif Tamsayı Sayacı |
+| [PRATİK 11](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-11--k%C3%BC%C3%A7%C3%BCk-karakter-sayac%C4%B1) - Küçük Karakter Sayacı |
+| [PRATİK 12](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-12--dizi-ters-%C3%A7evirme) - Dizi Ters Çevirme|
+| [PRATİK 13](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-13--kelime-ters-yazma) - Kelime Ters Yazma |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
