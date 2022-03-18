@@ -3,7 +3,7 @@ Fırat University Recursion_Projects
 
 | PRATİKLER |
 |-----
-| [PRATİK 1](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-1--fakt%C3%B6riyel-hesaplama) - Faktöriyel Hesaplama |
+| [PRATİK 1](https://github.com/elifsh/Recursion_Projects#open_book-prati%CC%87k-1--fakt%C3%B6riyel-hesaplama) - Faktöriyel Hesaplama |
 | [PRATİK 2](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-2--gauss-toplam%C4%B1) - Gauss Toplamı |
 | [PRATİK 3](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-3--basamak-say%C4%B1s%C4%B1-bulma) - Basamak Sayısı Bulma |
 | [PRATİK 4](https://github.com/elifsh/Recursion_Projects/edit/main/README.md#open_book-prati%CC%87k-4--%C3%BCsl%C3%BC-say%C4%B1-hesaplama) - Üslü Sayı Hesaplama |
